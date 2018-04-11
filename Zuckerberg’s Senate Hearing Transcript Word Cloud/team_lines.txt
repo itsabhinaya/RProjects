@@ -1,0 +1,17 @@
+As for past activity, I don't have all the examples of apps that we've banned here, but if you would like, I can have my team follow up with you after this.
+Going forward, we're going to take a more proactive position on this and do much more regular stock checks and other reviews of apps, as well as increasing the amount of audits that we do. And, again, I can make sure that our team follows up with you on anything about the specific past stats (ph) that would be interesting.
+ZUCKERBERG: Mr. Chairman, I will have my team follow up with you on what information we have.
+People could share what they wanted, and then, if someone in the community found it to be offensive or against our policies, they'd flag it for us, and we'd look at it reactively. Now, increasingly, we're developing A.I. tools that can identify certain classes of bad activity proactively and flag it for our team at Facebook.
+There were many others that our systems catch, which are more difficult to attribute specifically to Russian intelligence, but the number would be in the tens of thousands of fake accounts that we remove. And I'm happy to have my team follow up with you on more information, if that would be helpful.
+Cambridge Analytica wasn't using our services in 2015, as far as we can tell. So this is -- this is clearly one of the questions that I asked our team, as soon as I learned about this -- is why -- why did we wait until we found out about the reports last month to -- to ban them.
+ZUCKERBERG: Senator, my -- I can certainly have my team get back to you on any specifics there that I don't know, sitting here today.
+ZUCKERBERG: Senator -- I -- I want to make sure I get this accurate, so it would probably be better to have my team follow up afterwards.
+ZUCKERBERG: I'll have my team get back to you.
+And third is we're standing up a product team to do specific product changes in Myanmar and other countries that may have similar issues in the future to prevent this from happening.
+ZUCKERBERG: Yes. And I'll have my team follow up with you so, that way, we can have this discussion across the different categories where I think that this discussion needs to happen.
+ZUCKERBERG: Senator, that makes sense to me. And I think we should have our team follow up with -- with yours to -- to discuss the details around that more.
+ZUCKERBERG: Senator, I want to make sure we get this right. So I want to have my team follow up with you on that afterwards.
+ZUCKERBERG: Senator, our app review team would be responsible for that. Had...
+BLUMENTHAL: Has anyone been fired on that app review team?
+ZUCKERBERG: Senator, I look forward to having my team work with you on this.
+ZUCKERBERG: Thank you. Mr. Chairman, I want to correct one thing that I said earlier in response to a question from Senator Leahy. He had asked if -- why we didn't ban Cambridge Analytica at the time when we learned about them in 2015. And I answered that what my -- what my understanding was, was that they were not on the platform, were not an app developer or advertiser. When I went back and met with my team afterwards, they let me know that Cambridge Analytica actually did start as an advertiser later in 2015. So we could have in theory banned them then. We made a mistake by not doing so. But I just wanted to make sure that I updated that because I -- I -- I misspoke, or got that wrong earlier.
